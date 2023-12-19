@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **Everything 🤣**
 
-- 👨‍💻 All of my projects are available at [https://github.com/KaedeKen/](https://github.com/KaedeKen/)
+- 👨‍💻 All of my projects are available at [https://github.com/codeninja1004/](https://github.com/codeninja1004/)
 
 - ⚡ Fun fact **I love to code**
 
